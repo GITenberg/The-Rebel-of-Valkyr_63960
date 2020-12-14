@@ -1,5 +1,5 @@
 _repo: The-Rebel-of-Valkyr_63960
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Mayan, Earl
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52636'
     url: http://www.gutenberg.org/2009/agents/52636
     wikipedia: https://en.wikipedia.org/wiki/Earl_Mayan
+covers:
+- cover_type: archival
+  image_path: 63960-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppel, Alfred
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25110
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63960#The-Rebel-of-Valkyr
 gutenberg_issued: '2020-12-05'
 gutenberg_type: Text
 identifiers:

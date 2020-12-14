@@ -1,0 +1,43 @@
+_repo: The-Rebel-of-Valkyr_63960
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mayan, Earl
+    alias: Mayan, Earl Eugene
+    birthdate: 1916
+    deathdate: 2009
+    gutenberg_agent_id: '52636'
+    url: http://www.gutenberg.org/2009/agents/52636
+    wikipedia: https://en.wikipedia.org/wiki/Earl_Mayan
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Gilman, Robert Cham
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Marin, A. C.
+    - Coppel, Alfredo José de Arana-Marini
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: The Rebel of Valkyr
+url: http://www.gutenberg.org/ebooks/63960
